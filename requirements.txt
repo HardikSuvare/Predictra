@@ -9,3 +9,4 @@ scikit-learn
 joblib
 pydantic
 pyarrow
+email-validator
