@@ -90,10 +90,9 @@ Start the backend:
 ```bash
 uvicorn main:app --reload
 ```
+Backend URL: https://predictra-p8pz.onrender.com
+API documentation: https://predictra-p8pz.onrender.com/docs
 
-Backend URL: `http://127.0.0.1:8000`
-
-API documentation: `http://127.0.0.1:8000/docs`
 
 ## Frontend Setup
 

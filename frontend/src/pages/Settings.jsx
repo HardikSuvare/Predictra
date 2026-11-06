@@ -315,7 +315,7 @@ export default function Settings() {
               <div className="settings-section-title">
                 <div>
                   <strong>FastAPI backend</strong>
-                  <span>API server at http://127.0.0.1:8000</span>
+                  <span>API server at https://predictra-p8pz.onrender.com</span>
                 </div>
 
                 <span className="badge badge-low">Connected</span>
